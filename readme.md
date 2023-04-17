@@ -13,6 +13,6 @@ The program reads PDFs of borrow requests
 
 and create a xlxs file. 
 
-
+This eliminated the need to print a paper for every book request.
 
 **Contributions**: Deepta Bharadwaj, Laxmi Mukund, and 
